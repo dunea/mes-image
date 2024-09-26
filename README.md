@@ -1,6 +1,6 @@
 # mes-image
 
-mes 系列，图片相关的api接口
+web3 系列，图片相关的api接口
 
 # 支持功能
 
